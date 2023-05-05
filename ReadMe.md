@@ -1,10 +1,10 @@
-# Easy File Transfer Protocol with UDP
+# Simple File Transfer Protocol with UDP
 
 ## Description
 
-Easy File Transfer Protocol (EFTP) is a simple protocol used to transfer files between devices on a network. EFTP is based on the User Datagram Protocol (UDP), instead of the Transmission Control Protocol (TCP) used by FTP.
+Simple File Transfer Protocol (SFTP) is a simple protocol used to transfer files between devices on a network. SFTP is based on the User Datagram Protocol (UDP), instead of the Transmission Control Protocol (TCP) used by FTP.
 
-EFTP is particularly useful for transferring small files, such as configuration files or firmware updates, between networked devices. EFTP employs various mechanisms such as acknowledgments, retransmissions, timeouts, and packet sequencing to ensure reliable data transfer. However, it does not provide advanced security features or encryption of data.
+SFTP is particularly useful for transferring small files, such as configuration files or firmware updates, between networked devices. SFTP employs various mechanisms such as acknowledgments, retransmissions, timeouts, and packet sequencing to ensure reliable data transfer. However, it does not provide advanced security features or encryption of data.
 
 This was a project to demonstrae knowledge on socket programming, UDP and TCP protocol.
 ## Protocol Specification
